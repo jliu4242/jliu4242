@@ -40,7 +40,6 @@ I am a second-year Computer Science student at the University of British Columbi
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" alt="postgresql"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" alt="mongodb"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" alt="firebase / firestore"/>
-      <div style="font-size:12px; margin-top:4px;">postgres • supabase • mongo</div>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" alt="fastapi"/>
@@ -60,12 +59,12 @@ I am a second-year Computer Science student at the University of British Columbi
 
 <!-- github stats card -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=jliu4242&show_icons=true&hide_border=true"
   alt="github stats"
 />
 
 <!-- top languages card -->
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jliu4242&layout=compact&hide_border=true"
   alt="top languages"
 />
