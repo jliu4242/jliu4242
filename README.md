@@ -62,9 +62,3 @@ I am a second-year Computer Science student at the University of British Columbi
   src="https://github-readme-stats.vercel.app/api?username=jliu4242&show_icons=true&hide_border=true"
   alt="github stats"
 />
-
-<!-- top languages card -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jliu4242&layout=compact&hide_border=true"
-  alt="top languages"
-/>
